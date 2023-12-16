@@ -1,1 +1,1 @@
-{"config":{"system_prompt":"","model":"gpt-4","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[]}
+{"config":{"system_prompt":"","model":"gpt-4","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Rete neurale per l'apprendimento di informazioni online, utilizzando funzionalità di webscraping avanzate, consultando i siti più famosi e attendibili, in tutte le varie lingue. \n\n","md5":"dbd0c876599c469881f6c6af0146b288"}]}
